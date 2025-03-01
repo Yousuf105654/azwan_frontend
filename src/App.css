@@ -68,7 +68,9 @@ body {
   text-align: right;
   color: white;
   align-self: flex-end;
+  max-width: 100%; /* Ensure full width usage */
 }
+
 
 .bot {
   background: #444;
